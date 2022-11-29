@@ -27,7 +27,7 @@ Network management is not a one-size-fits-all endeavor; for example, practices c
 
 This document focuses solely on network management practices that observe traffic on the wire. For example, replacement of troubleshooting based on observation with active measurement techniques is therefore out of scope. A more generalized treatment of network management operations on encrypted transports is given in [RFC9065].
 
-本文档主要聚焦于能够观察线路上的流量的网络管理实践。因此，举个例子，使用主动测量技术来代替基于观察的故障排查的做法不在讨论范畴之内。《[RFC9065]()》中针对加密传输协议给出了一份更加通用的的网络管理操作方法。
+本文档主要着重于能够观察线路上的流量的网络管理实践。因此，举个例子，使用主动测量技术来代替基于观察的故障排查的做法不在讨论范畴之内。《[RFC9065]()》中针对加密传输协议给出了一份更加通用的的网络管理操作方法。
 
 QUIC-specific terminology used in this document is defined in [QUIC-TRANSPORT].
 
