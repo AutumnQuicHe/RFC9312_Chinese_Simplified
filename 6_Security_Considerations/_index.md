@@ -15,7 +15,7 @@ However, some information is still observable as supporting manageability of QUI
 
 More security considerations for QUIC are discussed in [QUIC-TRANSPORT] and [QUIC-TLS], which generally consider active or passive attackers in the network as well as attacks on specific QUIC mechanism.
 
-《[QUIC传输]()》和《[QUIC-TLS]()》中对QUIC的安全性进行了更多的讨论，其中一般化地考虑了网络中的主动攻击者与被动攻击者，以及针对特定QUIC机制的攻击。
+《[QUIC传输](../RFC9000_Chinese_Simplified)》和《[QUIC-TLS](../RFC9001_Chinese_Simplified)》中对QUIC的安全性进行了更多的讨论，其中一般化地考虑了网络中的主动攻击者与被动攻击者，以及针对特定QUIC机制的攻击。
 
 Version Negotiation packets do not contain any mechanism to prevent version downgrade attacks. However, future versions of QUIC that use Version Negotiation packets are required to define a mechanism that is robust against version downgrade attacks. Therefore, a network node should not attempt to impact version selection, as version downgrade may result in connection failure.
 
