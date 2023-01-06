@@ -5,8 +5,6 @@ weight: 900
 rank: "h1"
 ---
 
-The following people have contributed significant text to and/or feedback on this document:
-
 以下人员对本文档的文本和反馈做出了重要贡献：
 
 * Chris Box
